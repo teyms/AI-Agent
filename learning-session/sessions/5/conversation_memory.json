@@ -1,0 +1,42 @@
+[
+  {
+    "role": "user",
+    "content": "what would the first week be when joining the company?"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have enough information."
+  },
+  {
+    "role": "user",
+    "content": "is laptop provided?"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have enough information."
+  },
+  {
+    "role": "user",
+    "content": "how many leaves does a new employee have?"
+  },
+  {
+    "role": "assistant",
+    "content": "Employees are entitled to 14 days of annual leave per year."
+  },
+  {
+    "role": "user",
+    "content": "what is the first week like after joining?"
+  },
+  {
+    "role": "assistant",
+    "content": "During the first week, new employees should set up their laptop, company email, chat account, password manager, and development environment."
+  },
+  {
+    "role": "user",
+    "content": "what is the first week like after joining?"
+  },
+  {
+    "role": "assistant",
+    "content": "I don't have enough information."
+  }
+]
