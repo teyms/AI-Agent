@@ -1,0 +1,42 @@
+[
+  {
+    "role": "assistant",
+    "content": "New employees should set up their laptop, company email, chat account, password manager, and development environment during the first week."
+  },
+  {
+    "role": "user",
+    "content": "how many times should be review in PR?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the engineering handbook, every pull request should be reviewed by at least one teammate before merging."
+  },
+  {
+    "role": "user",
+    "content": "cls"
+  },
+  {
+    "role": "user",
+    "content": "how many times the pull request should be reviewed?"
+  },
+  {
+    "role": "assistant",
+    "content": "Every pull request should be reviewed by at least one teammate before merging."
+  },
+  {
+    "role": "user",
+    "content": "what employee should do in the first week?"
+  },
+  {
+    "role": "assistant",
+    "content": "The provided context does not contain information about what employees should do in the first week."
+  },
+  {
+    "role": "user",
+    "content": "what employee should do in the first week?"
+  },
+  {
+    "role": "assistant",
+    "content": "New employees should set up their laptop, company email, chat account, password manager, and development environment during the first week."
+  }
+]

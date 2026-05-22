@@ -1,0 +1,13 @@
+# Engineering Handbook
+
+Code Review:
+
+Every pull request should be reviewed by at least one teammate before merging. Reviews should check correctness, readability, tests, and security impact.
+
+Testing:
+
+Engineers should add focused tests for bug fixes and important user-facing behavior. Small learning experiments do not need heavy test coverage.
+
+Deployment:
+
+Production deployments require a passing build and approval from the engineering owner. Rollbacks should be prepared before high-risk releases.
