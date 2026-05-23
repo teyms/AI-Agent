@@ -1,0 +1,11 @@
+{
+  "conversation_history": [],
+  "user_profile": {
+    "preferred_language": "Python",
+    "location": "Johor",
+    "favorite_tools": [
+      "calculator",
+      "search_knowledge_base"
+    ]
+  }
+}
