@@ -1,0 +1,7 @@
+langgraph 
+langchain-core
+openai 
+python-dotenv
+sqlite-vec
+httpx
+
