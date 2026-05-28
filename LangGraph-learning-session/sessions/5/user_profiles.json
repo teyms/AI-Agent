@@ -1,0 +1,12 @@
+{
+  "exercise3_user_a": {
+    "preferred_language": "English",
+    "city": "Johor",
+    "timezone": "Asia/Kuala_Lumpur"
+  },
+  "exercise3_user_b": {
+    "preferred_language": "Chinese",
+    "city": "Singapore",
+    "timezone": "Asia/Singapore"
+  }
+}
