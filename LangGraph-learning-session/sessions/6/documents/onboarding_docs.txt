@@ -1,0 +1,13 @@
+# Onboarding Docs
+
+First Week:
+
+New employees should set up their laptop, company email, chat account, password manager, and development environment during the first week.
+
+Learning Plan:
+
+New engineers should read the engineering handbook, complete the security training, and pair with a teammate on a small starter task.
+
+Support:
+
+If a new employee is blocked, they should contact their manager or onboarding buddy for help.
